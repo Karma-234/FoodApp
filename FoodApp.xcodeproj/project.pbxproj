@@ -23,6 +23,7 @@
 		CEE5FFA32ADD77B70025E421 /* Persistence.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEE5FFA22ADD77B70025E421 /* Persistence.swift */; };
 		CEE5FFA52ADD78120025E421 /* FetchedObjects.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEE5FFA42ADD78120025E421 /* FetchedObjects.swift */; };
 		CEE5FFA72ADD78F10025E421 /* MenuView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEE5FFA62ADD78F10025E421 /* MenuView.swift */; };
+		CEE5FFA92ADDCC480025E421 /* Group 1.png in Resources */ = {isa = PBXBuildFile; fileRef = CEE5FFA82ADDCC480025E421 /* Group 1.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -63,6 +64,7 @@
 		CEE5FFA22ADD77B70025E421 /* Persistence.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Persistence.swift; path = ../../../Downloads/KrOCQU2CTpmu1REIfryAvg_ae0cd909bf5e4e7db7525f835ddd50e1_CoreDataSupport/Persistence.swift; sourceTree = "<group>"; };
 		CEE5FFA42ADD78120025E421 /* FetchedObjects.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FetchedObjects.swift; sourceTree = "<group>"; };
 		CEE5FFA62ADD78F10025E421 /* MenuView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuView.swift; sourceTree = "<group>"; };
+		CEE5FFA82ADDCC480025E421 /* Group 1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Group 1.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -93,6 +95,7 @@
 		CEB830242ADC64C600CCEBF1 = {
 			isa = PBXGroup;
 			children = (
+				CEE5FFA82ADDCC480025E421 /* Group 1.png */,
 				CEB8302F2ADC64C600CCEBF1 /* FoodApp */,
 				CEB830452ADC64C800CCEBF1 /* FoodAppTests */,
 				CEB8304F2ADC64C800CCEBF1 /* FoodAppUITests */,
@@ -284,6 +287,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CEE5FFA92ADDCC480025E421 /* Group 1.png in Resources */,
 				CEE5FF9F2ADD5DD60025E421 /* Fonts in Resources */,
 				CEB830382ADC64C800CCEBF1 /* Preview Assets.xcassets in Resources */,
 				CEB830352ADC64C800CCEBF1 /* Assets.xcassets in Resources */,
